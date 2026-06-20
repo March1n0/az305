@@ -328,3 +328,7 @@ Users would sign in with one identity for:
 **Limitation**
 
 An on-premises Active Directory environment was not available within the project lab. Therefore, Microsoft Entra Connect and Hybrid Identity synchronization could not be demonstrated.
+
+### Conclusion
+
+The Identity and Governance phase successfully established the foundational Azure structure for the Contoso Manufacturing migration project. Management Groups, Security Groups, and user accounts were successfully deployed and configured according to the project requirements. While Azure Free Trial limitations prevented the implementation of enterprise features such as MFA, SSPR, Conditional Access, and Hybrid Identity, the architecture, implementation approach, and configuration methodology have been fully documented to demonstrate how these services would be deployed in a production enterprise environment. Screenshots included throughout this repository provide evidence of the Management Group hierarchy, subscription structure, security groups, and user account creation.
