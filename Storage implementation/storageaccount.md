@@ -81,13 +81,13 @@ GRS directly supports:
 
 The Storage Account was created following Microsoft's recommended deployment sequence.
 
-### Step 1 – Navigate to Storage Accounts
+### Navigate to Storage Accounts
 
 1. Logged into Azure Portal.
 2. Selected **Storage Accounts**.
 3. Clicked **Create Storage Account**.
 
-### Step 2 – Configure Basic Settings
+### Configure Basic Settings
 
 Configured:
 
@@ -96,19 +96,19 @@ Configured:
 - Storage Account Name
 - Region: South Africa North
 
-### Step 3 – Configure Performance
+### Configure Performance
 
 Selected:
 
 - Standard Performance
 
-### Step 4 – Configure Redundancy
+### Configure Redundancy
 
 Selected:
 
 - Geo-Redundant Storage (GRS)
 
-### Step 5 – Review and Deploy
+### Review and Deploy
 
 1. Reviewed all settings.
 2. Validated deployment configuration.
